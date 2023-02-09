@@ -1,6 +1,6 @@
-import React from 'react'
-import SocialContact from '../../common/social-contacts'
-import './about.css'
+import React from 'react';
+import SocialContact from '../../common/social-contacts';
+import './about.css';
 
 function About() {
   return (
