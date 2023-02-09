@@ -8,7 +8,7 @@ function About() {
       <div className='about-top'>
             <div className='about-info'>
             Hello There 👋, I am <br />
-          <span className="info-name">Amit Singh</span>.<br /> I am a <span className='info-name-title'>Web Developer</span> <br /> and code beautifully simple things, <br /> and I love what I do.
+          <span className="info-name">Amit Singh</span>.<br /> I am a <span className='info-name-title'>Web Developer</span> <br /> and I code beautifully simple things, <br /> and I love what I do.
             </div>
             <div className='about-photo'>
                 <img src={require('../../assets/images/Coding-bro.svg').default} className="picture" alt='reload' />
